@@ -411,11 +411,11 @@
     <Entry Name="Depth of Field:">Depth of Field:</Entry>
     <Entry Name="Holster:">Holster:</Entry>
     <Entry Name="LookMode:">LookMode:</Entry>
-    <Entry Name="Load Game">Load Game</Entry>
-    <Entry Name="Continue">Continue</Entry>
-    <Entry Name="New Game">New Game</Entry>
-    <Entry Name="Options">Options</Entry>
-    <Entry Name="Exit">Exit</Entry>
+    <Entry Name="Load Game">Загрузіць</Entry>
+    <Entry Name="Continue">Працягнуць</Entry>
+    <Entry Name="New Game">Новая гульня</Entry>
+    <Entry Name="Options">Налады</Entry>
+    <Entry Name="Exit">Выхад</Entry>
     <Entry Name="Auto Saves">Auto Saves</Entry>
     <Entry Name="Saved Games">Save Spots</Entry>
     <Entry Name="Favorites">Favorites</Entry>
