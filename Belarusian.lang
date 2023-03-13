@@ -423,11 +423,11 @@
     <Entry Name="Remove">Remove</Entry>
     <Entry Name="Add To Favorites">Add To Favorites</Entry>
     <Entry Name="Easy">Лёгка</Entry>
-    <Entry Name="EasyDesc">For players who are bad at action games.</Entry>
+    <Entry Name="EasyDesc">Для ігракоў, у якіх усё дрэнна з экшн-гульнямі.</Entry>
     <Entry Name="Normal">Звычайна</Entry>
-    <Entry Name="NormalDesc">Recommended, suits most players.</Entry>
+    <Entry Name="NormalDesc">Рэкамендаваны, падыходзіць большасці ігракоў.</Entry>
     <Entry Name="Hard">Беларус</Entry>
-    <Entry Name="HardDesc">For players wanting a real challenge.</Entry>
+    <Entry Name="HardDesc">Для ігракоў, якія шукаюць сапраўдных выпрабаванняў.</Entry>
     <Entry Name="Resume">Back to game</Entry>
     <Entry Name="Welcome">Welcome to Penumbra: Overture,</Entry>
     <Entry Name="Too Improve">To improve your experience, please follow the advice below.</Entry>
@@ -472,9 +472,9 @@
     <Entry Name="TipGraphicsVSync">Выдаляе разрыванне карцінкі, але зніжае прадукцыйнасць.</Entry>
     <Entry Name="TipGameFlashText">Калі ўключана, рэчы будуць падсвечваца, калі ігрок побач з імі. Адключыце для больш цяжкай гульні.</Entry>
     <Entry Name="FlashItems:">Падсветка рэчаў:</Entry>
-    <Entry Name="TipDifficultyEasy">Enemies find it harder to spot you, move slower, and deal less damage.</Entry>
-    <Entry Name="TipDifficultyNormal">The most balanced mode to play in.</Entry>
-    <Entry Name="TipDifficultyHard">Enemies can take more damage, and are faster.</Entry>
+    <Entry Name="TipDifficultyEasy">Ворагам складаней Вас заўважыць, яны рухаюцца павольней і наносяць менш пашкоджанняў.</Entry>
+    <Entry Name="TipDifficultyNormal">Найбольш збалансаваны рэжым для гульні.</Entry>
+    <Entry Name="TipDifficultyHard">Ворагі вытрымліваюць больш пашкоджанняў і рухаюцца больш хутка.</Entry>
     <Entry Name="Use Hardware:">Use Hardware:</Entry>
     <Entry Name="TipSoundHardware">Уключыце, калі трэба выкарыстоўваць апаратныя драйверы, патрабуецца для акружэння. Выключыце, калі натрапілі на гукавыя глюкі. Патрабуе перазапуск.</Entry>
     <Entry Name="Show Crosshair:">Паказваць прыцэл:</Entry>
