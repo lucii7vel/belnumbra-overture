@@ -959,20 +959,20 @@
     <Entry Name="EventEnd02">To be continued...</Entry>
   </CATEGORY>
   <CATEGORY Name="Intro">
-    <Entry Name="01_01">For my part in this allegory, I'm not going to make the same mistake my father made.</Entry>
-    <Entry Name="01_02">Howard vanished from my mother's life before I was even in it, so when he sent me a letter, a few days after mum's funeral, it was the first I'd ever heard from him.</Entry>
-    <Entry Name="01_03">A pity he was dead. Writing from beyond the grave must be a genetic habit in my bloodline.</Entry>
-    <Entry Name="01_04">His letter contained a key, instructions, pleas for forgiveness. I figured the dead don't have much use for absolution, so I turned to his prophetic passing, which he inexplicably expected to come any day.</Entry>
-    <Entry Name="02_01">Clearly averse to explanations, my father preferred to leave directions to a bank on Mayfair I'd never even heard of. In that bank was a safety deposit box in his name, and myself as executor.</Entry>
-    <Entry Name="02_02">Of course, I went, as he knew I would. </Entry>
-    <Entry Name="02_03">I discovered that despite the evidence, he'd been legally declared dead almost thirty years ago, and so the old book, and collection of notes I found had, in the eyes of the law been mine all this time.</Entry>
-    <Entry Name="03_00">My father's instructions were to burn the documents, raise no further questions. But that was his error. No man is immune to the shameful trappings of curiosity and... my humanity got the better of me.</Entry>
-    <Entry Name="03_01">The university I taught at was world renowned for two things: physics, and linguistics. I represented the first, and the man who stood for the second was stumped by my recent acquisition.</Entry>
-    <Entry Name="03_02">The book was indecipherable. The notes, however, showed a location somewhere in uninhabited Northern Greenland.</Entry>
-    <Entry Name="04_01">It took me almost a year to book the last flight I would ever take.</Entry>
-    <Entry Name="05_01">We landed on a strip of ice a few feet wide, and within minutes I was pulling away on a chartered boat, beginning the 12 hour journey that would lead me into my past.</Entry>
-    <Entry Name="04_02">As I watched civilisation disappear, along with Heathrow, I realised my father had disappeared three decades ago, almost to the day, and I considered in turn, what it was that I was leaving behind.</Entry>
-    <Entry Name="00_01">My story began in February, year 2000</Entry>
+    <Entry Name="01_01">Што да майго ўдзелу ў гэтай алегорыі, я не збіраюся рабіць тых самых памылак, што зрабіў мой бацька.</Entry>
+    <Entry Name="01_02">Говард знік з жыцця маёй маці яшчэ да таго, як там з'явіўся я, таму, калі ён паслаў мне пісьмо праз некалькі дзён пасля пахавання маці, гэта быў першы раз, калі я нешта аб ім пачуў</Entry>
+    <Entry Name="01_03">Шкада ён ужо памёр. Пісаць пісмы з труны, мабыць, гэта генетычная звычка, закладзеная у нас у крыві.</Entry>
+    <Entry Name="01_04">Яго пісьмо змяшчала ключ, інструкцыі, упрошванні аб прабачэнні. Я палічыў, што мёртвым не надта патрэбна адпушчэнне грахоў, таму я звярнуўся да яго прарочага зыходу, які ён незразумелым чынам чакаў у любы дзень.</Entry>
+    <Entry Name="02_01">Відавочна пазбягаючы тлумачэнняў, мой бацька палічыў за лепшае аставіць напрамкі на банк у Мейфэры, пра які я ніколі ў жыцці не чуў. У гэтым банку была дэпазітная ячэйка на яго імя, і я ў якасці выканаўцы.</Entry>
+    <Entry Name="02_02">Канешне я паехаў, як ён і прадбачваў.</Entry>
+    <Entry Name="02_03">Я вынайшаў, што нягледзячы на доказы, ён быў афіцыйна прызнаны мёртвым амаль 30 гадоў таму, такім чынам і старая кніга, і калекцыя нататак, якія я знайшоў, з пункту гледжання закону, увесь гэты час былі маімі.</Entry>
+    <Entry Name="03_00">У інструкцыях майго бацькі было сказана спаліць дакументы, не задаючы больш ніякіх пытанняў. Але ў гэтым была яго памылка. Ні адзін чалавек не мае імунітэту да ганебных атрыбутаў зацікаўленасці, а... мая чалавечнасць мяне ў гэтым перамагла.</Entry>
+    <Entry Name="03_01">Універсітэт, у якім я выкладаў быў сусветна вядомым праз дзве рэчы: фізікаў і лінгвістаў. Я прадстаўляў першых, а чалавек, які стаяў за другімі, быў у тупіку ад майго нядаўняга набыцця.</Entry>
+    <Entry Name="03_02">Кніга не паддавалася расшыфроўцы. Нататкі, аднак, накіравалі на лакацыю недзе ў бязлюднай частцы Паўночнай Грэнландыі.</Entry>
+    <Entry Name="04_01">Амаль год я патраціў, каб сабрацца ў апошні палёт у сваім жыцці.</Entry>
+    <Entry Name="05_01">Мы прызямліліся на палосцы льду, даўжынёй у некалькі футаў, і ўжо праз некалькі хвілін я адплываў на чартарнай лодцы, пачынаючы 12-гадзіннае падарожжа, якое прывядзе мяне ў маё мінулае.</Entry>
+    <Entry Name="04_02">Гледзячы як цывілізацыя знікае разам з Хітроў, я ўсвядоміў, што мой бацька знік тры дзесяцігоддзі таму, амаль у той жа дзень, і я ў адказ меркаваў, што такога пакідаю ззаду.</Entry>
+    <Entry Name="00_01">Мая гісторыя пачынаецца ў лютым 2000-га года.</Entry>
   </CATEGORY>
   <CATEGORY Name="LoadTexts">
     <Entry Name="00_01_to_01_01">As I stepped off the boat, setting out into the blizzard that had formed around me, I realised how utterly devoted I'd been to the discovery of my father's past. I had no idea what to expect.[br][br]Soon enough, my concerns were justified. I don't know whether I lost my orientation, or my spirit, first, but I lost feeling in my extremities soon after, and knew hypothermia was setting in. I started looking for shelter.</Entry>
