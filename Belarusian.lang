@@ -383,7 +383,7 @@
     <Entry Name="Pers. Notes:">Нататкі:</Entry>
     <Entry Name="Flashlight:">Ліхтарык:</Entry>
     <Entry Name="Glowstick:">Люмінесцэнтнае святло:</Entry>
-    <Entry Name="Sound Volume:">Sound Volume:</Entry>
+    <Entry Name="Sound Volume:">Гучнасць:</Entry>
     <Entry Name="Language:">Мова:</Entry>
     <Entry Name="Resolution:">Resolution:</Entry>
     <Entry Name="Noise Filter:">Noise Filter:</Entry>
@@ -443,7 +443,7 @@
     <Entry Name="Subtitle:">Субцітры:</Entry>
     <Entry Name="VoiceLanguange:">Агучка:</Entry>
     <Entry Name="SetThisToLanguageOfVoice">English</Entry>
-    <Entry Name="Sound">Sound</Entry>
+    <Entry Name="Sound">Гукі</Entry>
     <Entry Name="Post Effects:">Post Effects:</Entry>
     <Entry Name="Difficulty:">Цяжкасць:</Entry>
     <Entry Name="Shader Quality:">Shader Quality:</Entry>
@@ -451,7 +451,7 @@
     <Entry Name="TipControlsMouseSensitivity">Вызначае, наколькі чуллівая будзе гульня да рухаў мышы.</Entry>
     <Entry Name="TipControlsToggleCrouch">Адключае неабходнасць трымаць нажатай кнопку каб красціся.</Entry>
     <Entry Name="TipControlsInvertMouseY">Інвертуе напрамак вертыкальных рухаў мышы пры аглядзе.</Entry>
-    <Entry Name="TipSoundVolume">Volume of game sounds and music.</Entry>
+    <Entry Name="TipSoundVolume">Гучнасць гукаў і музыкі.</Entry>
     <Entry Name="TipGameDifficulty">Змяняе цяжкасць. Можна змяняць напрацягу гульні.</Entry>
     <Entry Name="TipGameDisablePersonal">Адключыце, каб выдаліць падказкі, што рабіць далей.</Entry>
     <Entry Name="TipGameSubtitles">Пераканайцеся, што агучка на вашай мове перад тым як адключаць.</Entry>
@@ -476,7 +476,7 @@
     <Entry Name="TipDifficultyNormal">The most balanced mode to play in.</Entry>
     <Entry Name="TipDifficultyHard">Enemies can take more damage, and are faster.</Entry>
     <Entry Name="Use Hardware:">Use Hardware:</Entry>
-    <Entry Name="TipSoundHardware">Switch on if hardware drivers should be used, it's a must for surround. Try turning off if you experience audio glitches. Requires restart.</Entry>
+    <Entry Name="TipSoundHardware">Уключыце, калі трэба выкарыстоўваць апаратныя драйверы, патрабуецца для акружэння. Выключыце, калі натрапілі на гукавыя глюкі. Патрабуе перазапуск.</Entry>
     <Entry Name="Show Crosshair:">Паказваць прыцэл:</Entry>
   </CATEGORY>
   <CATEGORY Name="Global">
