@@ -348,10 +348,10 @@
   </CATEGORY>
   <CATEGORY Name="MainMenu">
     <Entry Name="StartNewGame">Start a new game?</Entry>
-    <Entry Name="Yes">Yes</Entry>
-    <Entry Name="No">No</Entry>
+    <Entry Name="Yes">Так</Entry>
+    <Entry Name="No">Не</Entry>
     <Entry Name="ContinueLastSave">Continue from last save?</Entry>
-    <Entry Name="SureQuit">Sure you want to quit?</Entry>
+    <Entry Name="SureQuit">Точна хочаце выйсці?</Entry>
     <Entry Name="Controls">Controls</Entry>
     <Entry Name="Game">Гульня</Entry>
     <Entry Name="Graphics">Graphics</Entry>
