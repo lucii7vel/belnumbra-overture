@@ -230,21 +230,21 @@
     <Entry Name="QuoteDot">".</Entry>
   </CATEGORY>
   <CATEGORY Name="01_01_outside">
-    <Entry Name="Cold01">So... cold... don't know where I am... need shelter soon.</Entry>
-    <Entry Name="DescHatch">Frozen solid. Must... break... ice.</Entry>
-    <Entry Name="TaskHatch">Can't get in... the ice is too thick.</Entry>
-    <Entry Name="DescExitArea">Can't see the bottom... but... it's my only chance to escape the cold.</Entry>
-    <Entry Name="TaskFindHatch">Lost in blizzard. May be my last entry if I don't find shelter.</Entry>
-    <Entry Name="Howl01">My entire head went numb a long time ago... but I can still hear the wind roaring past. Or is that some kind of animal in the distance?</Entry>
-    <Entry Name="FoundHatch">What... in hell is that? I don't care, I need... shelter. Looks frozen shut. Need something to break in.</Entry>
-    <Entry Name="UseStone01">If I use Interact Mode (</Entry>
-    <Entry Name="UseStone02">) I can swing the stone more accurately.</Entry>
-    <Entry Name="BrokeIce01">I hope to God it's not frozen inside as well. So weak... but if I just... use Interact Mode (</Entry>
-    <Entry Name="BrokeIce02">) I should be able to turn that wheel a bit easier.</Entry>
-    <Entry Name="DescStone">A rock.</Entry>
-    <Entry Name="FoundStone01">If I click and hold the Interact button (</Entry>
-    <Entry Name="FoundStone02">) I should just about manage... to pick up that rock. The cold's made me weak, but I can still throw things using the Examine button (</Entry>
-    <Entry Name="FoundStone03">) when I'm carrying something.</Entry>
+    <Entry Name="Cold01">Так... холадна... не ведаю, дзе я... хутка трэба ўкрыццё.</Entry>
+    <Entry Name="DescHatch">Замёрз намёртва. Трэба... разбіць... лёд.</Entry>
+    <Entry Name="TaskHatch">Не змагу залезці... лёд занадта тоўсты.</Entry>
+    <Entry Name="DescExitArea">Не бачу дна... але... гэта адзіны спосаб пазбегнуць холаду.</Entry>
+    <Entry Name="TaskFindHatch">Заблукаў у мяцеліцы. Можа быць мой апошні запіс, калі не знайду ўкрыццё.</Entry>
+    <Entry Name="Howl01">Мая галава ўжо даўно знямела... але я ўсё адно магу чуць, як вые вецер. Ці гэта нейкая жывёла ўдалечыні?</Entry>
+    <Entry Name="FoundHatch">Што... за чартаўшчына? Ўсё адно, трэба... укрыццё. Выглядае дужа замёрзлым. Трэба нечым разламаць.</Entry>
+    <Entry Name="UseStone01">Калі выкарыстаць Інтэрактыўны рэжым (</Entry>
+    <Entry Name="UseStone02">) я змагу махаць каменем больш точна.</Entry>
+    <Entry Name="BrokeIce01">Малю бога, каб толькі там усё не было замёрзлым унутры. Такі слабы... але, калі б толькі... выкарыстаць Інтэрактыўны рэжым (</Entry>
+    <Entry Name="BrokeIce02">) мне было б прасцей паварочваць гэтую ручку.</Entry>
+    <Entry Name="DescStone">Камень.</Entry>
+    <Entry Name="FoundStone01">Калі заціснуць кнопку Ўзаемадзеяння (</Entry>
+    <Entry Name="FoundStone02">) у мяне атрымецца... падабраць гэты камень. Холад зрабіў мяне слабым, але я ўсё адно магу кідаць рэчы праз кнопку Агляду (</Entry>
+    <Entry Name="FoundStone03">) калі іх трымаю.</Entry>
   </CATEGORY>
   <CATEGORY Name="01_02_mine_entrance">
     <Entry Name="DescHatch">I should have known that rusty old ladder wouldn't hold my weight, but I didn't have any choice: I'd rather die down here than suffer that cold any longer.</Entry>
