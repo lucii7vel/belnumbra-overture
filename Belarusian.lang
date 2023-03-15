@@ -39,8 +39,8 @@
     <Entry Name="LockerHelp02">Mustn't forget that glowstick from the locker.</Entry>
     <Entry Name="TutorialDrawer01">Здаецца, я аставіў свой ліхтарык у шуфлядзе стала каля ложка. Яна можа быць адкрытая выкарыстаннем "</Entry>
     <Entry Name="TutorialDrawer02">" на ёй, трыманнем клавішы і перацягваннем мышы.</Entry>
-    <Entry Name="DescPoster">Playboy poster. It's nice some things don't change no matter how far you are from home.</Entry>
-    <Entry Name="DescPicture">A photo of the fisherman's wife. She's no playboy bunny, but she looks loving and kind.</Entry>
+    <Entry Name="DescPoster">Плакат з плэйбоя. Добра што шмат рэчаў не змяняюцца, як бы далёка ты не быў ад дому.</Entry>
+    <Entry Name="DescPicture">Фотаздымак жонкі рыбака. Яна канешне не зорка плэйбоя, але выглядае прывабна і міла.</Entry>
   </CATEGORY>
   <CATEGORY Name="Items">
     <Entry Name="Battery">Батарэйкі</Entry>
