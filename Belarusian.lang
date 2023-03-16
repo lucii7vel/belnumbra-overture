@@ -76,8 +76,8 @@
     <Entry Name="CottonStringSoaked">Soaked cotton string</Entry>
     <Entry Name="Fuse">Fuse</Entry>
     <Entry Name="FuseDesc">Unbelievably, this is the first fuse I've ever made.</Entry>
-    <Entry Name="Hammer">Hammer</Entry>
-    <Entry Name="HammerDesc">This hammer's seen some action in its time.</Entry>
+    <Entry Name="Hammer">Малаток</Entry>
+    <Entry Name="HammerDesc">Гэты малаток крыху пабачыў жыццё ў свой час.</Entry>
     <Entry Name="SteelRod">Металічны стрыжань</Entry>
     <Entry Name="SteelRodDesc">Металічны стрыжань.</Entry>
     <Entry Name="Lighter">Empty lighter</Entry>
