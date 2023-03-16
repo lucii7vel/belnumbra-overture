@@ -78,8 +78,8 @@
     <Entry Name="FuseDesc">Unbelievably, this is the first fuse I've ever made.</Entry>
     <Entry Name="Hammer">Hammer</Entry>
     <Entry Name="HammerDesc">This hammer's seen some action in its time.</Entry>
-    <Entry Name="SteelRod">A steel rod</Entry>
-    <Entry Name="SteelRodDesc">A metal rod.</Entry>
+    <Entry Name="SteelRod">Металічны стрыжань</Entry>
+    <Entry Name="SteelRodDesc">Металічны стрыжань.</Entry>
     <Entry Name="Lighter">Empty lighter</Entry>
     <Entry Name="LighterDesc">It's a zippo lighter, but it's empty.</Entry>
     <Entry Name="LighterGasDesc">A lighter refill canister.</Entry>
