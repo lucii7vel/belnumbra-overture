@@ -219,10 +219,10 @@
     <Entry Name="Health">Здароўе</Entry>
   </CATEGORY>
   <CATEGORY Name="Notebook">
-    <Entry Name="TaskList">To do list</Entry>
-    <Entry Name="PickedNotes">Notes</Entry>
-    <Entry Name="Unread">unread</Entry>
-    <Entry Name="AddTask">I've jotted down a note, just in case...</Entry>
+    <Entry Name="TaskList">Нататкі</Entry>
+    <Entry Name="PickedNotes">Запісы</Entry>
+    <Entry Name="Unread">непрачытана</Entry>
+    <Entry Name="AddTask">Я зрабіў нататку, на ўсякі выпадак...</Entry>
   </CATEGORY>
   <CATEGORY Name="Misc">
     <Entry Name="Dot">.</Entry>
@@ -802,11 +802,11 @@
     <Entry Name="01_10_need_key">Mining machine - needs ignition key.</Entry>
     <Entry Name="01_10_need_gas">Mining machine won't start - out of gas?</Entry>
     <Entry Name="01_18_read_uv">That blank page had some UV text on it. Password: 1371.</Entry>
-    <Entry Name="01_03_need_code">I need to find a code for the workshop door.</Entry>
-    <Entry Name="01_03_need_key">I found a locked door in the middle of the mine.</Entry>
-    <Entry Name="01_03_entrance_closed">The entrance to the cave has caved in, there must be another way out.</Entry>
-    <Entry Name="01_03_found_exit">I found a potential way out of here, but need to remove the rubble first.</Entry>
-    <Entry Name="01_04_door_with_voice">There's a locked door with odd noises coming from behind it in the storage.</Entry>
+    <Entry Name="01_03_need_code">Мне трэба знайсці код ад дзвярэй майстэрні.</Entry>
+    <Entry Name="01_03_need_key">Я знайшоў замкнёныя дзверы пасярод шахты.</Entry>
+    <Entry Name="01_03_entrance_closed">Уваход у пячору абваліўся, павінен быць іншы выхад.</Entry>
+    <Entry Name="01_03_found_exit">Я знайшоў магчымы выхад адсюль, але спачатку трэба прыбраць завалы.</Entry>
+    <Entry Name="01_04_door_with_voice">Ёсць зачыненыя дзверы ў сховішчы, з-за якіх даносяцца дзіўныя гукі.</Entry>
     <Entry Name="01_03_tnt_need_fuse">Found a keg of explosives, but without a fuse I'll blow myself up trying to blast the exit path clear.</Entry>
     <Entry Name="01_13_exit">A strange door with no handle or obvious way of opening it, where does it lead?</Entry>
     <Entry Name="01_13_B_need_code">I found a door leading to the Sector C, but I need a code to unlock it.</Entry>
