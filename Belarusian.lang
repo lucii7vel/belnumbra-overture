@@ -180,10 +180,10 @@
     <Entry Name="CoffinKey">Small key</Entry>
     <Entry Name="NoteBaseEntry">Welcome to the Shelter</Entry>
     <Entry Name="NoteBaseEntryDesc">Seems like a list of staff.</Entry>
-    <Entry Name="NoteSpiderHater2">Scientific findings 1</Entry>
-    <Entry Name="NoteSpiderHater2Desc">Some sort of diary entries.</Entry>
-    <Entry Name="NoteSpiderHater3Desc">A log of some sort.</Entry>
-    <Entry Name="NoteSpiderHater3">Scientific findings 2</Entry>
+    <Entry Name="NoteSpiderHater2">Навуковыя знаходкі 1</Entry>
+    <Entry Name="NoteSpiderHater2Desc">Некія штодзённыя запісы.</Entry>
+    <Entry Name="NoteSpiderHater3Desc">Нейкі журнал.</Entry>
+    <Entry Name="NoteSpiderHater3">Навуковыя знаходкі 2</Entry>
   </CATEGORY>
   <CATEGORY Name="Inventory">
     <Entry Name="Use">Use</Entry>
