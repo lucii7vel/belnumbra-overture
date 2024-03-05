@@ -275,21 +275,21 @@
     <Entry Name="DescOldShelfs">Гэтыя паліцы такія ж старыя, як і ўсё астатняе тут, магчыма, ніхто тут не быў ужо гадоў 50.</Entry>
   </CATEGORY>
   <CATEGORY Name="01_05_office">
-    <Entry Name="DescPaperPile">So much history in this place, tied up in words, and left to decompose.</Entry>
-    <Entry Name="DescPapersFloor">The text on these pages is illegible. Years of damp and cold have dissolved its meaning forever.</Entry>
-    <Entry Name="DescBookShelf01">Rotting wooden shelves... must be the added moisture from that grate, this whole room is putrefying.</Entry>
-    <Entry Name="DescGrate">Light! I miss being outside already, this place is starting to get to me. But even if I could reach that grate, it looks built into the rock itself - no way it's coming loose.</Entry>
-    <Entry Name="DescTypewriter">This typewriter dates back even further than the war: 'Made in Germany, 1923'.</Entry>
-    <Entry Name="DescCabinet03">An age-old filing cabinet.</Entry>
-    <Entry Name="DescDesk01">It's a fairly basic work desk... this place must have been converted into a functional office at some stage in its history.</Entry>
-    <Entry Name="DescNoteBoard">It's a picture of a British platoon, it must date back to World War Two. I suppose this mine was converted into some kind of bunker.</Entry>
-    <Entry Name="CottonStringNotice">Ah, this has instructions on how to manufacture a basic fuse... I think I saw a box of string back in that workshop.</Entry>
-    <Entry Name="EventLockedChest">It's locked. I need a key.</Entry>
-    <Entry Name="DescCoffin">A chest for storing valuables.</Entry>
-    <Entry Name="EventUseKeyBrokenChest">Ah yes, the key was for the chest! Well, a little to late to use it now.</Entry>
-    <Entry Name="PickKeyToLate">A small key, most likely for the chest I forced open.</Entry>
-    <Entry Name="NoUseKeyHint">The key I found in the drawer seems to be for this chest. Well, it's not much use now.</Entry>
-    <Entry Name="DesGlasses">Both lenses of these glasses are cracked, and the metal is burnt and twisted. And... are those flakes of skin melted onto the arms?</Entry>
+    <Entry Name="DescPaperPile">Столькі гісторыі ў гэтым месцы, звязанай словамі і пакінутай раскладацца.</Entry>
+    <Entry Name="DescPapersFloor">Тэкст на гэтых старонках нечытэльны. Гады вільгаці і холаду назаўжды растварылі яго значэнне.</Entry>
+    <Entry Name="DescBookShelf01">Гнілыя драўляныя паліцы... Мабыць праз дадатковую вільгаць з гэтай рашоткі, увесь пакой гніе.</Entry>
+    <Entry Name="DescGrate">Святло! Мне ўжо не хапае знаходжання на вуліцы, гэта месца пачынае мяне прыгнятаць. Але нават калі б я мог дасягнуць гэтай рашоткі, яна выглядае ўбудаванай у саму скалу - яе ніяк не адарваць.</Entry>
+    <Entry Name="DescTypewriter">Гэтая пішучая машынка яшчэ старэйшая, чым вайна: "Зроблена ў Германіі, 1923'.</Entry>
+    <Entry Name="DescCabinet03">Векавая шафа для дакументаў.</Entry>
+    <Entry Name="DescDesk01">Даволі просты працоўны стол... На нейкім этапе сваёй гісторыі гэтае месца, напэўна, было ператворана ў функцыянальны офіс.</Entry>
+    <Entry Name="DescNoteBoard">Здымак брытанскага ўзвода, зроблены, хутчэй за ўсё, у гады Другой сусветнай вайны. Мяркую, што гэтая шахта была ператворана ў нейкі бункер.</Entry>
+    <Entry Name="CottonStringNotice">Ах, тут ёсць інструкцыя, як зрабіць просты запал... Думаю, я бачыў скрынку з вяроўкамі ў той майстэрні.</Entry>
+    <Entry Name="EventLockedChest">Зачынена. Патрэбны ключ.</Entry>
+    <Entry Name="DescCoffin">Куфар для захоўвання каштоўнасцяў.</Entry>
+    <Entry Name="EventUseKeyBrokenChest">Ах так, ключ быў ад куфра! Ну, крыху позна цяпер яго выкарыстоўваць.</Entry>
+    <Entry Name="PickKeyToLate">Маленькі ключ, хутчэй за ўсё, для куфра, якія я зламаў.</Entry>
+    <Entry Name="NoUseKeyHint">Ключ, які я знайшоў у шуфлядзе, здаецца, ад гэтага куфра. Ну, цяпер  ён не вельмі карысны.</Entry>
+    <Entry Name="DesGlasses">Абедзве лінзы гэтых акуляраў трэснулі, а метал абпалены і скручаны. І... Гэта ўплаўленыя шматкі скуры на аправах?</Entry>
   </CATEGORY>
   <CATEGORY Name="Notes">
     <Entry Name="explosivebook">[br][br][br][br][br][br][br][br]BIG BOOK OF EXPLOSIVES[br][br][br][br][br]1923 Edition[br][br][new_page][br]Chapter 1.3 Black Match Fuse[br][br]The black match fuse is one of the oldest, simplest and most reliable fuses used in modern pyrotechnics. It is easy to create, essentially consisting of just string and gunpowder, but be warned: the chemicals concerned WILL stain clothing, and as always, due concern is advised.[br][br]Materials required:[br][br]-	String (preferably cotton)[br]-	Black gun powder[br]-	Baxtrin[br][br]The string should be coated with a thin layer of baxtrin, which acts as an adhesive. The string is then carefully rolled in the gun powder, and left to dry at least a couple of minutes before use.[br][br][new_page][br]Chapter 2.1 Dynamite[br][br]Invented by Alfred Nobel in 1866, dynamite is commonly used in construction, mining, and demolition. It has proved far safer to handle than alternatives such as pure nitro-glycerine, provided, that is, it has been properly stored.  Over time, the explosive component of dynamite, supposedly made safe by the presence of the diatomaceous earth, has a tendency to weep, making an old box of the explosive liable to detonate on contact.[br][br]Materials required:[br][br]- 1 part diatomaceous earth[br]- 3 parts nitroglycerine[br]- small amount of sodium carbonate[br][br][Text unreadable] and then simply form into short sticks and wrap in paper.[br][new_page][br]Chapter 2.3 Trinitrotoluene (TNT)[br][br]TNT was first discovered, in 1863, by German chemist Joseph Wilbrand, but it took some years before it yielded its true potential. This was because of the difficulty of making it explode and the lesser detonation in comparison to dynamite. The main advantage was discovered by the German navy, who employed TNTs relative explosive stability in order to cause massive damage to British warships.  Their torpedoes could be detonated inside a ships armour, rather than exploding on contact as did other shells.[br][new_page][br]Chapter 2.6 Armstrong's mixture[br][br]Armstrong's mixture is included in this book as more of a point of interest, than as a viable chemical mix.  The formula exists as somewhat of a legend in modern pyrotechnics, referenced, by those knowledgeable enough to stay away from it, as Death Mix.  Its incredible volatility make it unsuitable for almost all potential applications.[br][br]Materials required:[br][br]- Red phosphorus[br]- Barium[br][br]This mixture can be carefully, and slowly mixed to minimise risk to the chemist. Sulphur can substitute for some, or all of the Barium, to slightly decrease sensitivity.</Entry>
