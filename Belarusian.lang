@@ -531,9 +531,9 @@
     <Entry Name="level01_01_outside">Паверхня</Entry>
   </CATEGORY>
   <CATEGORY Name="DeathMenu">
-    <Entry Name="BackToMainMenu">Main Menu</Entry>
-    <Entry Name="Continue">Continue</Entry>
-    <Entry Name="YouAreDead">Death is the final unknown</Entry>
+    <Entry Name="BackToMainMenu">Галоўнае меню</Entry>
+    <Entry Name="Continue">Працягнуць</Entry>
+    <Entry Name="YouAreDead">Смерць - апошняе невядомае</Entry>
   </CATEGORY>
   <CATEGORY Name="01_04_old_storage">
     <Entry Name="EventPickZippo">Калі б гэтая запальнічка не была пустой, было б зручна мець яе пад рукой.</Entry>
