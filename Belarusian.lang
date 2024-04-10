@@ -481,9 +481,9 @@
     <Entry Name="Show Crosshair:">Паказваць прыцэл:</Entry>
   </CATEGORY>
   <CATEGORY Name="Global">
-    <Entry Name="CombineStringDextrin">It's soaked in Baxtrin, so the gun powder should stick. Or, rather, I really pray the gun powder sticks.</Entry>
-    <Entry Name="CombineLighterGasZippo">This should fire up now.</Entry>
-    <Entry Name="CombineGasolineHammer">Phew... got the lid off.</Entry>
+    <Entry Name="CombineStringDextrin">Прасякнутая ў Бакстрыне, таму порах павінен прыліпаць. Або, дакладней сказаць, я малюся, каб порах прыліпаў.</Entry>
+    <Entry Name="CombineLighterGasZippo">Цяпер павінна гарэць.</Entry>
+    <Entry Name="CombineGasolineHammer">Фух... Сарваў вечку.</Entry>
   </CATEGORY>
   <CATEGORY Name="Save">
     <Entry Name="AfterSave_01">Угх, якога чорта? Што адбылося? Не думаю, што гэта было такой добрай ідэяй.</Entry>
