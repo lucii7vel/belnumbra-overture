@@ -99,7 +99,7 @@
     <Entry Name="BookCodeDesc">Гэта нейкая лістоўка на выпадак надзвычайных сітуацый. Якіх надзвычайных сітуацый яны чакалі?</Entry>
     <Entry Name="BookCode">Брашура на выпадак надзвычайных сітуацый</Entry>
     <Entry Name="ComRadioDesc">Вузкачастотная радыёстанцыя. Хах, памятаю, як пабудаваў адну на сваіх першых занятках па электроніцы. Верагодна, у мяне нават атрымалася лепей.</Entry>
-    <Entry Name="ComRadio">Com radio</Entry>
+    <Entry Name="ComRadio">Рацыя</Entry>
     <Entry Name="PickAxeDesc">Старая шахцёрская кірка.</Entry>
     <Entry Name="PickAxe">Кірка</Entry>
     <Entry Name="GeneratorBattery">Акумулятар</Entry>
