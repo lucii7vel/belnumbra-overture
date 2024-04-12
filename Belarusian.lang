@@ -750,11 +750,11 @@
     <Entry Name="EventFirstHatch">What was that?! I don't even care if I'm going crazy, I'm blocking that tunnel off.</Entry>
   </CATEGORY>
   <CATEGORY Name="Radio">
-    <Entry Name="Start">Radio is transmitting.</Entry>
-    <Entry Name="Red 1.01">Good day? Good day? Can you hear me?</Entry>
-    <Entry Name="Red 1.02">Well, I hope that your ears are working better than your tongue, so that you might [br]use them to listen to my words.  You have turned on the light at the end, beginning [br]and middle of the tunnel, but some things remain shrouded in darkness.</Entry>
-    <Entry Name="Red 1.03">My morsey message I hope has helped, but what you need now is through the [br]wall hole, to the right of the fence.  Go now!  There's no time to explain!</Entry>
-    <Entry Name="Red 1.04">Well, in fact, time is one of the few things we have in abundance down here, but [br]surprises are spoilt by such catty curiosity.</Entry>
+    <Entry Name="Start">Рацыя перадае паведамленне.</Entry>
+    <Entry Name="Red 1.01">Дабрыдзень? Дабрыдзень? Чуеш мяне?</Entry>
+    <Entry Name="Red 1.02">Ну, я спадзяваюся, што вушы ў цябе працуюць лепш, чым язык, каб ты змог [br]паслухаць імі што я кажу.  Ты ўключыў святло ў канцы, пачатку [br]і сярэдзіне тунэлю, але некаторыя месцы застаюцца ахутанымі цемрай.</Entry>
+    <Entry Name="Red 1.03">Я спадзяваюся, што маё паведамленне азбукай Морзэ дапамагло, але цяпер табе трэба [br]ў дзірку ў сцяне, справа ад плота.  Хутчэй!  Няма часу тлумачыць!</Entry>
+    <Entry Name="Red 1.04">Ну, насамрэч, час - адна з нямногіх рэчаў, якіх ў нас тут шмат, але [br]сюрпрызы сапсуюцца праз такую каціную цікаўнасць.</Entry>
     <Entry Name="Red 2.01">Ah, my memory is like something with a great many small holes.  We shall be needing to perform some minor demolition work, so that we might one day meet again.</Entry>
     <Entry Name="Red 2.02">For this task, we shall require the use of a large, earth-eating, metal monster, and that monster is thirsty for juice from the place where things are kept.</Entry>
     <Entry Name="Red 2.03">By the way, you can call me Red.  It is not my name, you understand, but, as I am sure you will agree, it is a name rather similar to a cardigan: fetching, when worn correctly.</Entry>
