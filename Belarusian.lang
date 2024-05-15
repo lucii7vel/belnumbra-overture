@@ -736,18 +736,18 @@
     <Entry Name="EventFoundKeyGas">I feel certain that this key and gasoline tank is what Red was refering to.</Entry>
   </CATEGORY>
   <CATEGORY Name="01_12_water_cave_tunnels">
-    <Entry Name="DescRemains">Urgh... I hope these came from an animal, but I have my suspicions. I need to get out of here.</Entry>
-    <Entry Name="DescEggs01">My God... nothing lays eggs that big. They're leathery, so can't be mamallian, more likely amphibious or insectoid. I really don't like the way they're moving.</Entry>
-    <Entry Name="DescAcid">It looks organic, but it smells highly acidic. </Entry>
-    <Entry Name="DescPillar">If this pillar's the only thing holding up the cave roof, I don't fancy hanging around for long.</Entry>
-    <Entry Name="DescWaterCave">Everything in me is saying I should turn back, but I'd better continue.</Entry>
-    <Entry Name="DescNewStorage">Finally, that must be the storage room! Thank God. I'm... I'm still alive!</Entry>
-    <Entry Name="DescParafin">A broken paraffin lamp. Highly flammable.</Entry>
-    <Entry Name="EventEndLevel">Feels like it's closing in on me. Got to get out! Out!</Entry>
-    <Entry Name="EventCloseLevel">Now I've got no choice but to move on. Whatever's made this tunnel its home clearly made it unstable as well.</Entry>
-    <Entry Name="EventDeadEnd">If my pick axe isn't up to digging through this rubble, I'm a dead man.</Entry>
-    <Entry Name="EventParaffinHelp">I can barely see, the paraffin's in my eyes.</Entry>
-    <Entry Name="EventFirstHatch">What was that?! I don't even care if I'm going crazy, I'm blocking that tunnel off.</Entry>
+    <Entry Name="DescRemains">Угх... Спадзяваюся, што гэта зрабіла жывёла, але ў мяне ёсць свае падазрэнні. Трэба сыходзіць адсюль.</Entry>
+    <Entry Name="DescEggs01">Божухна... Нічога не адкладае яйкі такога памеру. Яны скурыстыя, таму не могуць належаць млекакормячым, больш верагодна амфібіям або інсектоідам. Мне сапраўды не падабаецца, як яны варушацца.</Entry>
+    <Entry Name="DescAcid">Выглядае арганічным, але пахне дужа кіслотна. </Entry>
+    <Entry Name="DescPillar">Калі гэты слуп - адзінае, што трымае дах пячоры, я не хацеў бы доўга тут завісаць.</Entry>
+    <Entry Name="DescWaterCave">Усё ўнутры кажа павяртацца назад, але я лепей пайду далей.</Entry>
+    <Entry Name="DescNewStorage">Нарэшце, гэта павінны быць склад! Дзякуй Богу. Я... Я яшчэ жывы!</Entry>
+    <Entry Name="DescParafin">Разбітая парафінавая лямпа. Вогненебяспечная.</Entry>
+    <Entry Name="EventEndLevel">Пачуццё, нібы ўсё абвальваецца. Трэба бегчы! Бегчы!</Entry>
+    <Entry Name="EventCloseLevel">Цяпер у мяне няма іншага выбару, акрамя як рухацца далей. Што б ні зрабіла гэты тунэль сваім домам, відавочна зрабіла яго таксама нестабільным.</Entry>
+    <Entry Name="EventDeadEnd">Калі мая кірка не зможа капаць скрозь гэты друз, я нябожчык.</Entry>
+    <Entry Name="EventParaffinHelp">Нічога не бачу, парафін у вачах.</Entry>
+    <Entry Name="EventFirstHatch">Што гэта было?! Можа я звар'яцеў, мне ўсё адно, я блакую гэты тунэль.</Entry>
   </CATEGORY>
   <CATEGORY Name="Radio">
     <Entry Name="Start">Рацыя перадае паведамленне.</Entry>
