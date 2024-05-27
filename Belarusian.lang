@@ -862,18 +862,18 @@
     <Entry Name="DescCabinet">All these cabinets are damaged, something violent went on in here.</Entry>
   </CATEGORY>
   <CATEGORY Name="01_13_A_iron_mine">
-    <Entry Name="EventStartDoor01">No thanks.</Entry>
-    <Entry Name="DescPit01">It's like an opening into hell. I've never been down this far before.</Entry>
-    <Entry Name="DescPit02">It must be my imagination, but it almost feels like there's warm air coming from down there.</Entry>
-    <Entry Name="DescStick01">I can't see where the cables from this lever lead...</Entry>
-    <Entry Name="DescMachines01">Probably industrial refinement machinery. Rusted and useless now.</Entry>
-    <Entry Name="DescEggs01">Christ, not more of these things. I can keep my distance, but that won't stop me shaking.</Entry>
-    <Entry Name="DescDoor01">This door's sealed tight, with no handle. How's it operated?</Entry>
-    <Entry Name="DescBrokenDoor">It came through here like a steam roller. How... how many of them could be down here?</Entry>
-    <Entry Name="DescBlood">I don't want to know whether that stain is oil, or blood. I have my suspicions.</Entry>
-    <Entry Name="DescBagPile">Just some old sacks.</Entry>
-    <Entry Name="DescPaperPile">The files are getting newer as I move deeper into the mines. Most of these are dated from around 1965. Strange, nothing more recent than 1970.</Entry>
-    <Entry Name="EventWormDeath">What... how... that thing was huge.</Entry>
+    <Entry Name="EventStartDoor01">Не, дзякуй.</Entry>
+    <Entry Name="DescPit01">Гэта як шчыліна ў пекла. Я ніколі раней не быў так глыбока ўнізе.</Entry>
+    <Entry Name="DescPit02">Магчыма, гэта маё ўяўленне, але здаецца, што адтуль дзьме цёплае паветра.</Entry>
+    <Entry Name="DescStick01">Я не бачу, куды вядуць кабелі ад гэтага рычага....</Entry>
+    <Entry Name="DescMachines01">Верагодна, прамысловае абсталяванне для перапрацоўкі. Іржавае і бескарыснае зараз.</Entry>
+    <Entry Name="DescEggs01">Божухна, толькі не яны зноў. Я магу трымаць дыстанцыю, але гэта не дапамагае супраць дрыжыкаў.</Entry>
+    <Entry Name="DescDoor01">Гэтыя дзверы надзейна зачыненыя, без ручкі. Як яны працуюць?</Entry>
+    <Entry Name="DescBrokenDoor">Ён прапоўз тут як бульдозер. Колькі... Колькі такіх можа яшчэ быць?</Entry>
+    <Entry Name="DescBlood">Я не хачу ведаць, масла гэта ці кроў. У мяне ёсць свае падазрэнні.</Entry>
+    <Entry Name="DescBagPile">Проста старыя мяшкі.</Entry>
+    <Entry Name="DescPaperPile">Запісы становяцца навейшымі, калі я перамяшчаюся глыбей у шахты. Большасць з іх датуецца прыкладна 1965 годам. Дзіўна, нічога навейшага за 1970.</Entry>
+    <Entry Name="EventWormDeath">Што... Як... Гэтая штука была вялізнай.</Entry>
   </CATEGORY>
   <CATEGORY Name="01_13_B_iron_mine">
     <Entry Name="DescDoorPanel">Another security keypad.</Entry>
