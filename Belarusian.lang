@@ -904,15 +904,15 @@
     <Entry Name="DescTank">Some kind of reservoir.</Entry>
   </CATEGORY>
   <CATEGORY Name="01_16_destroyed_shaft">
-    <Entry Name="DescAcidPit">More of that acid... looks lethal enough that I'm not about to find out if I'm right.</Entry>
-    <Entry Name="DescLargeTunnel">Those rocks look loose. I might be able to shift them, but they're more likely to bury me alive.</Entry>
-    <Entry Name="DescSmallTunnel">More of those tunnels. I know what that means - I'd better not stick around here too long.</Entry>
-    <Entry Name="DescCavein">Another major cave in. Damn, it looks like that might have been a route up to the surface.</Entry>
-    <Entry Name="DescLockers">Loads of lockers. Maybe there's something of use inside. Or maybe not.</Entry>
-    <Entry Name="DescWater">The pipes are dry... this whole place is dead. The water that's collected is a shade browner than it should be.</Entry>
-    <Entry Name="DescCeiling">This locker room's in worse shape than most of the facility. Whatever tore this place apart must have started out nearby.</Entry>
-    <Entry Name="EventCavein">Why?! Why is this place trying to kill me?! Urgh, I've got to get a grip.</Entry>
-    <Entry Name="DescBench">It's a changing room, this must have been close to the main entrance to the mine. How many people worked down here? How many people died?</Entry>
+    <Entry Name="DescAcidPit">Больш гэтай кіслаты... Выглядае дастаткова смяртэльнай, каб я не выясняў, маю рацыю ці не.</Entry>
+    <Entry Name="DescLargeTunnel">Гэтыя камяні выглядаюць друзлымі. Магчыма, я змагу іх зрушыць, але яны, хутчэй за ўсё, пахаваюць мяне жыўцом.</Entry>
+    <Entry Name="DescSmallTunnel">Больш гэтых тунэляў. Я ведаю, што гэта значыць: мне лепш не затрымлівацца тут занадта доўга.</Entry>
+    <Entry Name="DescCavein">Яшчэ адзін буйны абвал. Халера, здаецца, што гэта мог быць шлях да паверхні.</Entry>
+    <Entry Name="DescLockers">Шмат шафак. Магчыма, унутры ёсць нешта карыснае. А можа не.</Entry>
+    <Entry Name="DescWater">Гэтыя трубы сухія... Усё гэта месца мёртвае. Набраўшаяся вада значна больш карычневая, чым павінна быць.</Entry>
+    <Entry Name="DescCeiling">Гэтая раздзявальня знаходзіцца ў горшым стане, чым большая частка аб'екта. Што б не разграміла гэтае месца, яно павінна было адбыцца недзе побач.</Entry>
+    <Entry Name="EventCavein">Чаму?! Чаму гэта месца спрабуе мяне забіць?! Угх, трэба ўзяць сябе ў рукі.</Entry>
+    <Entry Name="DescBench">Гэта раздзявальня, яна павінна была быць побач з галоўным ўваходам у шахту. Колькі людзей тут працавала? Колькі людзей загінула?</Entry>
   </CATEGORY>
   <CATEGORY Name="01_17_worm_nest">
     <Entry Name="CloseDoor">I've got to seal that door!</Entry>
