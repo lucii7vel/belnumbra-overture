@@ -896,12 +896,12 @@
     <Entry Name="DescPipes">Яны пазначаны як паравыя трубы... Яны могуць нарабіць сур'ёзнай шкоды, магчыма, я мог бы гэта выкарыстаць.</Entry>
   </CATEGORY>
   <CATEGORY Name="01_13_C_iron_mine">
-    <Entry Name="EventLockedWormDoor">It's locked from the other side.</Entry>
-    <Entry Name="EventLockedCodeDoor01">The door is jammed!</Entry>
-    <Entry Name="EventLockedForeverDoor">The door has been forged shut, it will never open again.</Entry>
-    <Entry Name="Event119NeedCrowbar">It's stuck, a small gap gives me a chance to pry it open with the right tool.</Entry>
-    <Entry Name="Event119NeedCrowbar02">I'm not strong enough to use my hands, I need to use a tool to force  it open.</Entry>
-    <Entry Name="DescTank">Some kind of reservoir.</Entry>
+    <Entry Name="EventLockedWormDoor">Зачынена з іншага боку.</Entry>
+    <Entry Name="EventLockedCodeDoor01">Дзверы не адчыняюцца!</Entry>
+    <Entry Name="EventLockedForeverDoor">Дзверы запячаталі, яны больш ніколі не адчыняцца.</Entry>
+    <Entry Name="Event119NeedCrowbar">Не варушыцца, невялікая шчыліна дае мне магчымасць адкрыць яе з правільным інструментам.</Entry>
+    <Entry Name="Event119NeedCrowbar02">Я недастаткова моцны, каб выкарыстоўваць рукі, мне трэба выкарыстоўваць інструмент, каб прымусіць яе адкрыццца.</Entry>
+    <Entry Name="DescTank">Нейкі рэзервуар.</Entry>
   </CATEGORY>
   <CATEGORY Name="01_16_destroyed_shaft">
     <Entry Name="DescAcidPit">Больш гэтай кіслаты... Выглядае дастаткова смяртэльнай, каб я не выясняў, маю рацыю ці не.</Entry>
