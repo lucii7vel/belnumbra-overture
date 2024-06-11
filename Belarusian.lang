@@ -943,14 +943,14 @@
     <Entry Name="DescFanOff">Цяпер павінна быць бяспечна, калі буду хуткім.</Entry>
   </CATEGORY>
   <CATEGORY Name="01_15_icecave">
-    <Entry Name="DescShed">A disused shed. Who knows how old it is, or who last used it.</Entry>
-    <Entry Name="DescHand">This gortex glove is high tech, modern stuff. I really hope there's not a body attached to it, though. Jesus, what a way to go.</Entry>
-    <Entry Name="DescIce">It looks solid, but not much is as it seems down here. Won't catch me trekking across that.</Entry>
-    <Entry Name="DescBackpack">Finally, something younger than me. Maybe this pack'll help me figure out what's going on down here.</Entry>
-    <Entry Name="DescLight">Any other time, that sight would be stunning. Right now, it just makes me shiver.</Entry>
-    <Entry Name="EventBackpack">Useless. Well, not entirely, just an old flare and some painkillers.</Entry>
-    <Entry Name="EventInteractFrozenHand">I don't have the strength to pull the crowbar out of his frozen hand.</Entry>
-    <Entry Name="DescWaterHole">Could be a connecting stream during the summer.  Useless now.</Entry>
+    <Entry Name="DescShed">Закінуты хлеў. Хто ведае, колькі яму гадоў ці хто апошні раз ім карыстаўся.</Entry>
+    <Entry Name="DescHand">Высокатэхналагічная пальчатка з гротэксу, сучасная рэч. Але, я праўда спадзяваюся, што да яе не прымацавана цела. Божухна, што за спосаб памерці.</Entry>
+    <Entry Name="DescIce">Выглядае надзейна, але тут нічога не бывае надзейным, як я ўжо зразумеў. Нават і думаць не хачу пра шпацыр.</Entry>
+    <Entry Name="DescBackpack">Нарэшце, нешта маладзейшае за мяне. Магчыма, гэты заплечнік дапаможа мне высветліць, што тут адбываецца.</Entry>
+    <Entry Name="DescLight">У любы іншы час гэта відовішча было б ашаламляльным. Зараз ад яго толькі дрыжыкі.</Entry>
+    <Entry Name="EventBackpack">Няма карысці. Ну, не зусім, проста стары фальшфаер і крыху болесуцішальных.</Entry>
+    <Entry Name="EventInteractFrozenHand">Мне не хопіць сіл выцягнуць лом з яго замарожанай рукі.</Entry>
+    <Entry Name="DescWaterHole">Можа быць злучальным патокам улетку. Ніякай карысці зараз.</Entry>
   </CATEGORY>
   <CATEGORY Name="01_20_base_entrance">
     <Entry Name="EventLookAtShape">Is... is that another human being? It's been so long...</Entry>
