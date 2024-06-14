@@ -915,12 +915,12 @@
     <Entry Name="DescBench">Гэта раздзявальня, яна павінна была быць побач з галоўным ўваходам у шахту. Колькі людзей тут працавала? Колькі людзей загінула?</Entry>
   </CATEGORY>
   <CATEGORY Name="01_17_worm_nest">
-    <Entry Name="CloseDoor">I've got to seal that door!</Entry>
-    <Entry Name="GotAllChems">All six chemicals accounted for.</Entry>
-    <Entry Name="GotAllChemsOnNotePickUp">If I counted correctly, I should have all of the six chemicals listed in the note.</Entry>
-    <Entry Name="DescRubblePole">This pole looks as if it can barely hold the roof up.</Entry>
-    <Entry Name="DescRubble">It's... I think it's dead. But, I almost died with it.</Entry>
-    <Entry Name="EventNoTimeForValve">Damnit, this is taking too long!</Entry>
+    <Entry Name="CloseDoor">Трэба зачыніць гэтыя дзверы!</Entry>
+    <Entry Name="GotAllChems">Усе шэсць хімічных рэчываў з пераліку.</Entry>
+    <Entry Name="GotAllChemsOnNotePickUp">Калі я падлічыў правільна, у мяне павінны быць усе шэсць хімічных рэчываў, пералічаных у нататцы.</Entry>
+    <Entry Name="DescRubblePole">Гэты слуп выглядае так, быццам ён ледзьве трымае дах.</Entry>
+    <Entry Name="DescRubble">Ён... Здаецца, ён памёр. Але я ледзь не памёр разам з ім.</Entry>
+    <Entry Name="EventNoTimeForValve">Халера, гэта занадта доўга!</Entry>
   </CATEGORY>
   <CATEGORY Name="01_14_refinery">
     <Entry Name="JammedDoor">Дзверы надзейна зачыненыя.</Entry>
