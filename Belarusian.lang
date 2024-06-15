@@ -787,13 +787,13 @@
     <Entry Name="Red 14.01">Ох, мой мозг ледзьве можа ўявіць сабе нечалавечыя подзвігі, якія ты, мабыць, гераічна здзяйсняеш, каб выратаваць старога Рэда!  Я чакаю, ужо так блізка, каб ты знёс сцены маёй земляной турэмнай камеры і вызваліў мяне з гэтай смяротнай абалонкі!  </Entry>
     <Entry Name="Red 15.01">Дзе ты, мой бліскучы рыцар?  Ты сапраўды зайшоў так далёка?  Я чакаю і чакаю, і ўсё ж гаршчок ніколі не кіпіць, я застаюся ў пастцы ў сваім логаве няроўнасці. Магчыма, багі яшчэ раз пагуляліся са мною, прысудзіўшы мне яшчэ больш гадоў у гэтым месцы вечнага начнога святла.</Entry>
     <Entry Name="Red 15.02">Але цяпер, магчыма, мае хваравітыя парады цябе прыкончылі... Ты пастукаў смерці ў дзверы?  Калі ласка, не пакідай беднага Рэда аднаго далей як усе іншыя!</Entry>
-    <Entry Name="Red 16.01">Good evening! You... you actually came.  There is much that should leave my throat box now, but words elude me.  You came, you are so pretty!  But I have been bad.</Entry>
-    <Entry Name="Red 16.02">The underworld already beckons me, so I suppose one further misdemeanour will change little.  It is false pretension, and not guiding light that has lead you here: I cannot give you the answers you want.</Entry>
-    <Entry Name="Red 16.03">You may wish to find what it is that you seek, but that is a fiction: you could not know what it was you sought, through that vast leaden doorway, or else you would seek anything else in the world!</Entry>
-    <Entry Name="Red 16.04">No, the key stays with me, in here, for the life that has lead me, horrible as may be, is better still than the life that waits for you, hungry, behind those doors.  As replacements go, you shall be admirably abnormal.</Entry>
-    <Entry Name="Red 16.05">But you must wonder why this metal burning chamber is talking to you in the voice you knew only as Red... for it is I, your companion, residing within!  </Entry>
-    <Entry Name="Red 16.06">You see, I have waited for this day so many years... they won't let me die. They... parts of my head are not my own!  And I cannot take my life, it is against the rules.</Entry>
-    <Entry Name="Red 16.07">Please... the pain has gone on for so long... all I wanted was a friend, but now the time for chit chats and marshmallows by the fire has ended, and I hope that soon, so shall my life.  I have knocked on death's door for so long, please, let him invite me in for tea.</Entry>
+    <Entry Name="Red 16.01">Добры вечар! Ты... Ты сапраўды прыйшоў.  Шмат чаго цяпер павінна пакінуць маю ротаваю скрынку, але словы мяне пазбягаюць.  Ты прыйшоў, ты такі прыгожы!  Але я быў дрэнным.</Entry>
+    <Entry Name="Red 16.02">Падземны свет ужо кліча мяне, таму я мяркую, што яшчэ адзін праступак мала што зменіць.  Гэта ілжывы падман, а не святло прывяло цябе сюды: я не магу даць табе патрэбныя адказы.</Entry>
+    <Entry Name="Red 16.03">Магчыма, ты захочаш даведацца, што шукаеш, але гэта выдумка: ты не мог ведаць, што шукаў праз гэтыя велізарныя свінцовыя дзверы, інакш бы ты шукаў што заўгодна іншае!</Entry>
+    <Entry Name="Red 16.04">Не, ключ застаецца са мною, тут, бо маё жыццё, якім бы жахлівым яно не было, усё адно лепшае за жыццё, якое чакае цябе, галоднага, за тымі дзвярыма.  Для замены, ты будзеш выдатна незвычайным.</Entry>
+    <Entry Name="Red 16.05">Табе, мабыць, цікава, чаму гэтая металічная камера для спальвання размаўляе з табою голасам, які ты ведаў толькі як Рэда... Бо я, твой кампаньён, знаходжуся ўнутры!  </Entry>
+    <Entry Name="Red 16.06">Ведаеш, я так шмат гадоў чакаў гэтага дня... Яны не давалі мне памерці. Яны... Часткі маёй галавы не мае!  І я не магу пазбавіць сябе жыцця, гэта супраць правіл.</Entry>
+    <Entry Name="Red 16.07">Калі ласка... Боль працягваўся так доўга... Я толькі хацеў сябра, але цяпер час на балбатню і маршмэлаў каля агню скончыўся, як спадзяваюся, хутка і маё жыццё.  Я так доўга стукаў у дзверы смерці, калі ласка, дазволь ёй запрасіць мяне на чай.</Entry>
   </CATEGORY>
   <CATEGORY Name="PersonalNotes">
     <Entry Name="01_09_battery_missing">Галоўны генератар не будзе працаваць без забеспячэння стартара энергіяй.</Entry>
