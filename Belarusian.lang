@@ -953,12 +953,12 @@
     <Entry Name="DescWaterHole">Можа быць злучальным патокам улетку. Ніякай карысці зараз.</Entry>
   </CATEGORY>
   <CATEGORY Name="01_20_base_entrance">
-    <Entry Name="EventLookAtShape">Is... is that another human being? It's been so long...</Entry>
-    <Entry Name="LockedBehind">The door's locked, it slammed shut behind me.</Entry>
-    <Entry Name="LockedDoor">It's locked.</Entry>
-    <Entry Name="BaseDoor">Damnit - the mechanism's shot. No turning back.</Entry>
-    <Entry Name="EventEnd">With that, the man who had first descended into the mine, was no more. And so began my next chapter.</Entry>
-    <Entry Name="EventEnd02">To be continued...</Entry>
+    <Entry Name="EventLookAtShape">Гэта... Гэта іншы чалавек? Колькі часу прайшло... </Entry>
+    <Entry Name="LockedBehind">Дзверы зачыніліся за мною.</Entry>
+    <Entry Name="LockedDoor">Зачынена</Entry>
+    <Entry Name="BaseDoor">Халера, механізм зламаўся. Назад не прайсці.</Entry>
+    <Entry Name="EventEnd">Вось так, чалавека, які ўпершыню спусціўся ў шахту, не стала. І так пачалася мая наступная частка.</Entry>
+    <Entry Name="EventEnd02">Працяг будзе...</Entry>
   </CATEGORY>
   <CATEGORY Name="Intro">
     <Entry Name="01_01">Што да майго ўдзелу ў гэтай алегорыі, я не збіраюся рабіць тых самых памылак, што зрабіў мой бацька.</Entry>
