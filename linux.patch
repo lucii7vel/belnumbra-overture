@@ -1,0 +1,61 @@
+diff --git a/Belarusian.lang b/Belarusian.lang
+index 6b3a004..9d9f082 100644
+--- a/Belarusian.lang
++++ b/Belarusian.lang
+@@ -505,31 +505,31 @@
+     <Entry Name="Flashback05">Цяпер бачна ланцугі на яго руках. Па сваёй волі, бацька глядзіць з жахам. Ён хапае некалькі нататак, паціскае некалькі рук. Ён ведае! Ён ведае, што з'явілася, што гэты чалавек вызваліў. Адзіны, хто мог гэта спыніць, Говард зазнае сапраўдны страх.</Entry>
+   </CATEGORY>
+   <CATEGORY Name="SaveNames">
+-    <Entry Name="level01_05_office">Стары офіс</Entry>
+-    <Entry Name="level01_04_old_storage">Стары склад</Entry>
+-    <Entry Name="level01_06_workshop">Старая майстэрня</Entry>
+-    <Entry Name="level01_03_shafts">Старыя шахты</Entry>
+-    <Entry Name="level01_02_mine_entrance">Падземны ўваход</Entry>
+-    <Entry Name="level01_08_water_cave">Вадзяная пячора</Entry>
+-    <Entry Name="level01_12_water_cave_tunnels">Вадзяныя тунэлі</Entry>
+-    <Entry Name="level01_09_generator_room">Генератарная</Entry>
+-    <Entry Name="level01_07_lead_mine_shafts">Свінцовыя шахты</Entry>
+-    <Entry Name="level01_10_small_shaft">Малая шахта</Entry>
+-    <Entry Name="level01_11_new_storage_room">Склад</Entry>
+-    <Entry Name="level01_07_lead_mine_shafts_A">Свінцовыя шахты A</Entry>
+-    <Entry Name="level01_07_lead_mine_shafts_B">Свінцовыя шахты B</Entry>
+-    <Entry Name="level01_07_lead_mine_shafts_C">Свінцовыя шахты C</Entry>
+-    <Entry Name="level01_17_worm_nest">Склад хімічных рэчываў</Entry>
+-    <Entry Name="level01_13_A_iron_mine_shafts">Жалезныя шахты A</Entry>
+-    <Entry Name="level01_13_B_iron_storage_tunnels">Жалезныя шахты B</Entry>
+-    <Entry Name="level01_13_C_iron_base_tunnels">Жалезныя шахты C</Entry>
+-    <Entry Name="level01_14_refinery">Рэфінарыя</Entry>
+-    <Entry Name="level01_15_icecave">Возера Утукак</Entry>
+-    <Entry Name="level01_16_destroyed_shaft">Шахта 13</Entry>
+-    <Entry Name="level01_18_mining_room">Шахта 12</Entry>
+-    <Entry Name="level01_19_door_shaft">Печ</Entry>
+-    <Entry Name="level01_20_base_entrance">Базавы ўваход</Entry>
+-    <Entry Name="level01_01_outside">Паверхня</Entry>
++    <Entry Name="level01_05_office">Old office</Entry>
++    <Entry Name="level01_04_old_storage">Old storage</Entry>
++    <Entry Name="level01_06_workshop">Old workshop</Entry>
++    <Entry Name="level01_03_shafts">Old shafts</Entry>
++    <Entry Name="level01_02_mine_entrance">Underground entrance</Entry>
++    <Entry Name="level01_08_water_cave">Water cave</Entry>
++    <Entry Name="level01_12_water_cave_tunnels">Water tunnels</Entry>
++    <Entry Name="level01_09_generator_room">Generator room</Entry>
++    <Entry Name="level01_07_lead_mine_shafts">Lead shafts</Entry>
++    <Entry Name="level01_10_small_shaft">Small shaft</Entry>
++    <Entry Name="level01_11_new_storage_room">Storage room</Entry>
++    <Entry Name="level01_07_lead_mine_shafts_A">Lead shafts A</Entry>
++    <Entry Name="level01_07_lead_mine_shafts_B">Lead shafts B</Entry>
++    <Entry Name="level01_07_lead_mine_shafts_C">Lead shafts C</Entry>
++    <Entry Name="level01_17_worm_nest">Chemical Storage</Entry>
++    <Entry Name="level01_13_A_iron_mine_shafts">Iron Shafts A</Entry>
++    <Entry Name="level01_13_B_iron_storage_tunnels">Iron Shafts B</Entry>
++    <Entry Name="level01_13_C_iron_base_tunnels">Iron Shafts C</Entry>
++    <Entry Name="level01_14_refinery">Refinery</Entry>
++    <Entry Name="level01_15_icecave">Lake Utuqaq</Entry>
++    <Entry Name="level01_16_destroyed_shaft">Shaft 13</Entry>
++    <Entry Name="level01_18_mining_room">Shaft 12</Entry>
++    <Entry Name="level01_19_door_shaft">Incinerator</Entry>
++    <Entry Name="level01_20_base_entrance">Base entrance</Entry>
++    <Entry Name="level01_01_outside">Outside</Entry>
+   </CATEGORY>
+   <CATEGORY Name="DeathMenu">
+     <Entry Name="BackToMainMenu">Галоўнае меню</Entry>
