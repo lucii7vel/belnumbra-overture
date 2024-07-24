@@ -3,7 +3,7 @@
     <Directory Path="fonts/eng" />
     <Directory Path="sounds/voices/eng" />
     <Directory Path="graphics/lang_specific/eng" />
-    <Directory Path="textures/lang_specific/eng" />
+    <Directory Path="textures/lang_specific/bel" />
   </RESOURCES>
   <CATEGORY Name="TEST">
     <Entry Name="Club">Bûü...Grüß Gott</Entry>
