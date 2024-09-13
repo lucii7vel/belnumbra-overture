@@ -2,7 +2,7 @@
   <RESOURCES>
     <Directory Path="fonts/eng" />
     <Directory Path="sounds/voices/eng" />
-    <Directory Path="graphics/lang_specific/eng" />
+    <Directory Path="graphics/lang_specific/bel" />
     <Directory Path="textures/lang_specific/bel" />
   </RESOURCES>
   <CATEGORY Name="TEST">
